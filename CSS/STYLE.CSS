@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 1500px;
+    background: url(../IMG/16554568477259101808166761638187.jpg);
+    background-size: cover;
+}
+
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: darkgrey;
+}
+.picture{
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+.picture img{
+    width: 20%;
+    height: 100px;
+}
+.link{
+    width: 40%;
+    height: 100px;
+    float: right;
+}
+.link a{
+    margin: 5px;
+    color: aliceblue;
+}
+.box1{
+    margin-top: 20px;
+    margin-left: 2%;
+    width:50%;
+    height:200px;
+    color: aliceblue;
+}
+.box2{
+    background-color: rgb(180, 173, 187);
+    width: 20%;
+    height: 200px;
+    margin-top: 10px;
+    margin-right: 10%;
+    padding: 1%;
+    padding-left: 7%;
+    float: right;
+    margin-top:-165px;
+}
+.buttonclass{
+    background-color: rgb(245, 245, 245);
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+.content{
+    width: 100%;
+    height: 1000px;
+}
+.column1{
+    float: left;
+    margin-left: 2%;
+    margin-top: 150px ;
+    height: 1px;
+    color:white;
+    font-family: 'Dancing Script', cursive; 
+}
+.column2{
+    float: left;
+    margin-left: 2% ;
+    margin-top: 150px ;
+ 
+    height: 1px;
+    color:white;
+    font-family: 'Dancing Script', cursive; 
+}
+.column3{
+    float: left;
+    margin-left: 2%;
+    margin-top:200px  ;
+ 
+    height: 1px;
+    color:white; 
+    font-family: 'Dancing Script', cursive;
+}
+.column4{
+    float: left;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 2%;
+    margin-top: 200px ;
+    height: 2px;
+}  
+.footer{
+    margin-bottom: 2px;
+    margin: 2px;
+    width:100% ;
+    height: 46px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+    color: black;
+    background-color: darkgray;
+}
